@@ -1,0 +1,6 @@
+https://web.cecs.pdx.edu/~black/cs350/Lectures/lec07-Decrease%20and%20Conquer.pdf
+https://compucademy.net/algorithmic-thinking-with-python-part-2-decrease-and-conquer-strategy/
+Introduction to The design and analysis of algorithms by: levitin
+Dr: Islam El-Shaarawy Lectures
+https://colab.research.google.com/drive/1OxiXHjAzYl4ko5NiQFm1uaiyH5CJpzbA
+https://dl.acm.org/doi/pdf/10.1145/299649.299747
